@@ -1,0 +1,21 @@
+{
+  "short_name": "Realiste AI",
+  "name": "Realiste AI Referral Accelerator",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06b6d4",
+  "background_color": "#111827",
+  "description": "A web app for Realiste referrers to showcase properties, calculate earnings, capture leads, and generate marketing content with AI."
+}

@@ -1,0 +1,345 @@
+
+{
+  "header": {
+    "poweredBy": "Impulsado por Realiste AI & Gemini",
+    "title": "Acelerador de Referidos",
+    "titleAccent": "Realiste",
+    "subtitle": "Muestre las mejores propiedades evaluadas por IA, calcule sus ganancias potenciales y genere contenido de marketing viral con un solo clic.",
+    "nav": {
+      "properties": "Propiedades",
+      "dashboard": "Panel",
+      "library": "Biblioteca",
+      "settings": "Ajustes"
+    }
+  },
+  "calculator": {
+    "title": "Calculadora de Ganancias",
+    "synced": "SINCRONIZADO",
+    "investmentLabel": "Monto de Inversión",
+    "yourBonus": "Tu Bono",
+    "theirBonus": "Su Bono",
+    "yourBonusSub": "1.5% de la inversión",
+    "theirBonusSub": "0.5% de descuento en tarifa"
+  },
+  "leadCapture": {
+    "title": "No te Pierdas Ninguna Oferta",
+    "description": "Recibe las mejores propiedades evaluadas por IA en tu bandeja de entrada semanalmente.",
+    "placeholder": "tu.email@ejemplo.com",
+    "button": "Suscribirse"
+  },
+  "properties": {
+    "noResults": {
+      "title": "No se Encontraron Propiedades",
+      "description": "Intenta ajustar tus filtros para encontrar la inversión perfecta."
+    }
+  },
+  "propertyCard": {
+    "projRoi": "ROI Proy.",
+    "minInvest": "Inv. Mín.",
+    "riskScore": "Puntaje Riesgo",
+    "generatePost": "Generar Post con IA",
+    "generatePostDisabled": "Por favor, establece primero tu código de referido",
+    "aiAnalysis": "Análisis IA",
+    "investAndEarn": "Invertir y Ganar",
+    "investDisabled": "Por favor, establece primero tu código de referido",
+    "beds": "habs",
+    "baths": "baños",
+    "sqft": "m²",
+    "addToFav": "Añadir a favoritos",
+    "removeFromFav": "Quitar de favoritos",
+    "statsTooltip": {
+      "title": "Estadísticas Totales",
+      "clicks": "Clics",
+      "earnings": "Ganancias"
+    }
+  },
+  "filters": {
+    "search": "Buscar",
+    "searchPlaceholder": "Nombre o ubicación...",
+    "minRoi": "ROI Mín.",
+    "sortBy": "Ordenar Por",
+    "sortOptions": {
+      "roi_desc": "ROI (Mayor a Menor)",
+      "roi_asc": "ROI (Menor a Mayor)",
+      "investment_asc": "Inversión (Menor a Mayor)",
+      "investment_desc": "Inversión (Mayor a Menor)"
+    },
+    "propertyType": "Tipo de Propiedad",
+    "bedrooms": "Habitaciones",
+    "favorites": "Favoritos",
+    "reset": "Restablecer Filtros",
+    "all": "Todos",
+    "any": "Cual."
+  },
+  "dashboard": {
+    "title": "Panel",
+    "getAIInsights": "Obtener Análisis IA",
+    "analyzing": "Analizando...",
+    "editLayout": "Editar Diseño",
+    "doneEditing": "Finalizar Edición",
+    "noData": {
+      "title": "Tu Panel está Listo",
+      "description": "Haz clic en \"Invertir y Ganar Bono\" en las propiedades, captura leads y registra conversiones para ver tus análisis aquí."
+    },
+    "stats": {
+      "totalClicks": "Total de Clics",
+      "totalLeads": "Leads Totales",
+      "totalConversions": "Conversiones Totales",
+      "totalEarnings": "Ganancias Totales"
+    }
+  },
+  "goalWidget": {
+    "title": "Meta Mensual",
+    "progressTitle": "Progreso de Meta Mensual",
+    "noGoal": "Establece una meta de ganancias en Ajustes para seguir tu progreso aquí."
+  },
+  "funnelWidget": {
+    "title": "Embudo de Conversión",
+    "stages": {
+      "clicks": "Clics",
+      "leads": "Leads",
+      "conversions": "Conversiones"
+    }
+  },
+  "topProperties": {
+    "title": "Propiedades Destacadas",
+    "byClicks": "Por Clics",
+    "byEarnings": "Por Ganancias",
+    "noData": "Aún no hay datos para esta vista.",
+    "clicks": "clics",
+    "earnings": "ganancias"
+  },
+  "charts": {
+    "recentActivity": "Actividad Reciente",
+    "recentActivitySub": "Clics en los últimos 7 días",
+    "recentEarnings": "Ganancias Recientes",
+    "recentEarningsSub": "Ganancias en los últimos 7 días"
+  },
+  "leadsList": {
+    "title": "Leads Capturados",
+    "capturedOn": "Capturado",
+    "converted": "Convertido",
+    "noLeads": "Aún no se han capturado leads.",
+    "logInvestmentTitle": "Registrar inversión para este lead",
+    "composeEmailTitle": "Redactar email de seguimiento con IA"
+  },
+  "achievements": {
+    "title": "Logros",
+    "list": {
+      "code_commander": {
+        "name": "Comandante de Código",
+        "description": "Establece tu código de referido"
+      },
+      "property_curator": {
+        "name": "Curador de Propiedades",
+        "description": "Marca tu primera propiedad como favorita"
+      },
+      "click_magnet": {
+        "name": "Imán de Clics",
+        "description": "Genera 10 clics en enlaces"
+      },
+      "lead_leader": {
+        "name": "Líder de Leads",
+        "description": "Captura tu primer lead"
+      },
+      "conversion_king": {
+        "name": "Rey de la Conversión",
+        "description": "Registra tu primera conversión"
+      },
+      "high_roller": {
+        "name": "Gran Apostador",
+        "description": "Gana tus primeros $100"
+      }
+    }
+  },
+  "library": {
+    "title": "Biblioteca de Contenido",
+    "empty": {
+      "title": "Tu Biblioteca está Vacía",
+      "description": "Genera contenido para una propiedad y haz clic en \"Guardar en Biblioteca\" para empezar a crear tu colección."
+    }
+  },
+  "libraryCard": {
+    "savedOn": "Guardado el"
+  },
+  "export": {
+    "button": "Exportar Datos",
+    "clicks": "Exportar Clics",
+    "leads": "Exportar Leads",
+    "conversions": "Exportar Conversiones"
+  },
+  "modals": {
+    "contentGenerator": {
+      "title": "Contenido IA para",
+      "imageTitle": "Imagen Generada",
+      "editorTitle": "Editor de Contenido IA",
+      "share": "Compartir Post e Imagen",
+      "saveToLibrary": "Guardar en Biblioteca",
+      "shareOnX": "X",
+      "copyText": "Copiar",
+      "download": "Descargar",
+      "regenerateImage": "Regenerar Imagen",
+      "startOver": "Empezar de Nuevo",
+      "placeholder": "Da feedback o instrucciones...",
+      "imagePlaceholder": "La imagen aparecerá aquí.",
+      "generatingImage": "Generando imagen con IA...",
+      "quickRepliesTitle": "Respuestas Rápidas",
+      "replies": {
+        "concise": "Hazlo más conciso",
+        "emojis": "Añade más emojis 🤩",
+        "professional": "Suena más profesional",
+        "roi": "Explica el ROI simplemente"
+      },
+      "hashtags": {
+        "generating": "Generando Hashtags...",
+        "title": "Hashtags Sugeridos",
+        "copyAll": "Copiar Todos"
+      }
+    },
+    "analysis": {
+      "title": "Análisis IA",
+      "summary": "Resumen de Inversión",
+      "market": "Análisis de Mercado",
+      "risk": "Desglose de Riesgo",
+      "growth": "Potencial de Crecimiento",
+      "print": "Imprimir / Guardar como PDF",
+      "error": "Algo salió mal. Por favor, intenta generar el informe de nuevo."
+    },
+    "email": {
+      "title": "Email IA para",
+      "subject": "Asunto",
+      "body": "Cuerpo",
+      "copySubject": "Copiar Asunto",
+      "copyBody": "Copiar Cuerpo",
+      "send": "Enviar con mi Cliente de Email",
+      "error": "Algo salió mal. Por favor, intenta generar el email de nuevo."
+    },
+    "logInvestment": {
+      "title": "Registrar Inversión para",
+      "propertyLabel": "Propiedad Invertida",
+      "amountLabel": "Monto de Inversión ($)",
+      "amountPlaceholder": "ej., 50000",
+      "cancel": "Cancelar",
+      "save": "Guardar Conversión"
+    },
+    "libraryPreview": {
+      "title": "Biblioteca",
+      "imageTitle": "Imagen Guardada",
+      "textTitle": "Texto Guardado",
+      "delete": "Eliminar de la Biblioteca",
+      "deleteConfirm": "¿Estás seguro de que quieres eliminar este elemento de tu biblioteca?"
+    },
+    "aiInsights": {
+      "title": "Análisis de Rendimiento IA",
+      "summary": "Resumen de Rendimiento",
+      "strengths": "Fortalezas Clave",
+      "opportunities": "Oportunidades de Crecimiento",
+      "tips": "Consejos Accionables",
+      "button": "¡Entendido, Gracias!",
+      "error": "Algo salió mal. Por favor, intenta generar el análisis de nuevo."
+    },
+    "aiPlan": {
+      "title": "Tu Plan Estratégico IA",
+      "subtitle": "¡Aquí está tu plan personalizado de 4 semanas para ayudarte a alcanzar tu meta de",
+      "button": "¡Vamos!",
+      "error": "Algo salió mal. Por favor, intenta generar el plan de nuevo."
+    },
+    "whatsNew": {
+      "title": "Novedades",
+      "button": "Explorar Ahora",
+      "types": {
+        "new": "Nueva Función",
+        "improvement": "Mejora",
+        "fix": "Corrección"
+      }
+    },
+    "close": "Cerrar modal"
+  },
+  "settings": {
+    "profile": {
+      "title": "Perfil"
+    },
+    "goals": {
+      "title": "Metas",
+      "description": "Establece un objetivo para tus ganancias mensuales por referidos. La IA usará esto para seguir tu progreso y generar consejos estratégicos.",
+      "label": "Meta de Ganancias Mensuales",
+      "placeholder": "1000",
+      "generatePlan": "Generar Plan IA",
+      "generating": "Generando...",
+      "errorSetGoal": "Por favor, establece primero una meta mensual mayor que cero."
+    },
+    "appearance": {
+      "title": "Apariencia",
+      "description": "Elige cómo se ve la aplicación. 'Sistema' coincidirá con la configuración de tu SO.",
+      "theme": "Tema",
+      "themes": {
+        "light": "Claro",
+        "dark": "Oscuro",
+        "system": "Sistema"
+      }
+    },
+    "data": {
+      "title": "Gestión de Datos",
+      "description": "Esta aplicación almacena todos tus datos localmente en tu navegador. Limpiar los datos aquí es permanente y no se puede deshacer.",
+      "buttons": {
+        "clicks": "Limpiar Clics",
+        "leads": "Limpiar Leads",
+        "conversions": "Limpiar Conversiones",
+        "favorites": "Limpiar Favoritos",
+        "library": "Limpiar Biblioteca",
+        "achievements": "Limpiar Logros",
+        "all": "Limpiar Todos los Datos"
+      },
+      "clearConfirmation": "¿Estás seguro de que quieres limpiar todos los {dataType}? Esta acción no se puede deshacer.",
+      "clearAllConfirmation": "¿Estás seguro de que quieres limpiar TODOS tus datos? Esto restablecerá toda la aplicación y no se puede deshacer."
+    }
+  },
+  "proactiveAssistant": {
+    "title": "Consejo Proactivo"
+  },
+  "toasts": {
+    "codeSaved": "¡Código de referido guardado con éxito!",
+    "leadCaptured": "¡Lead capturado! Revisa tu panel.",
+    "postCopied": "¡Texto del post copiado al portapapeles!",
+    "incompleteContent": "No se puede guardar contenido incompleto.",
+    "allHashtagsCopied": "¡Todos los hashtags copiados!",
+    "hashtagCopied": "Copiado: {tag}",
+    "webShareUnsupported": "Tu navegador no soporta Web Share.",
+    "shareError": "Ocurrió un error al intentar compartir.",
+    "subjectCopied": "¡Asunto copiado al portapapeles!",
+    "bodyCopied": "¡Cuerpo copiado al portapapeles!",
+    "investmentLogged": "¡Inversión registrada con éxito!",
+    "leadAlreadyConverted": "Este lead ya ha sido marcado como convertido.",
+    "invalidInvestment": "Por favor, selecciona una propiedad e introduce un monto de inversión válido.",
+    "achievementUnlocked": "Logro Desbloqueado: ¡{name}!",
+    "contentSaved": "¡Contenido guardado en tu biblioteca!",
+    "contentRemoved": "Contenido eliminado de la biblioteca.",
+    "noTopProperty": "Aún no hay una propiedad destacada para recomendar. ¡Comparte algunos enlaces primero!",
+    "setCodeFirst": "Por favor, establece primero tu código de referido."
+  },
+  "aiErrors": {
+    "failedInitialContent": "No se pudo generar el contenido de marketing inicial.",
+    "failedResponse": "No se pudo obtener respuesta de la IA. Por favor, inténtalo de nuevo.",
+    "failedImage": "No se pudo generar la imagen de la propiedad. Por favor, inténtalo de nuevo.",
+    "failedAnalysis": "No se pudo generar el informe de análisis de la IA.",
+    "failedEmail": "No se pudo generar el email de seguimiento de la IA.",
+    "failedInsights": "No se pudo generar el análisis de rendimiento de la IA.",
+    "failedStrategicPlan": "No se pudo generar el plan estratégico de la IA."
+  },
+  "changelog": {
+    "v1_1_0": {
+      "proactiveAssistant": {
+        "title": "Asistente Proactivo de IA",
+        "description": "Recibe consejos oportunos y contextuales para potenciar tu éxito, como recordatorios para hacer seguimiento a nuevos leads."
+      },
+      "customDashboard": {
+        "title": "Panel Personalizable",
+        "description": "Ahora puedes reordenar y ocultar widgets en tu panel para personalizar tu espacio de trabajo."
+      },
+      "pwa": {
+        "title": "Modo Offline e Instalación",
+        "description": "La aplicación ahora se puede instalar en tu dispositivo y funciona sin conexión, gracias a las mejoras de PWA."
+      }
+    }
+  }
+}

@@ -1,0 +1,345 @@
+
+{
+  "header": {
+    "poweredBy": "Powered by Realiste AI & Gemini",
+    "title": "Realiste Referral",
+    "titleAccent": "Accelerator",
+    "subtitle": "Showcase top AI-vetted properties, calculate your potential earnings, and generate viral marketing content in one click.",
+    "nav": {
+      "properties": "Properties",
+      "dashboard": "Dashboard",
+      "library": "Library",
+      "settings": "Settings"
+    }
+  },
+  "calculator": {
+    "title": "Earnings Calculator",
+    "synced": "SYNCED",
+    "investmentLabel": "Investment Amount",
+    "yourBonus": "Your Bonus",
+    "theirBonus": "Their Bonus",
+    "yourBonusSub": "1.5% of investment",
+    "theirBonusSub": "0.5% fee discount"
+  },
+  "leadCapture": {
+    "title": "Never Miss a Deal",
+    "description": "Get the top AI-vetted properties sent to your inbox weekly.",
+    "placeholder": "your.email@example.com",
+    "button": "Subscribe"
+  },
+  "properties": {
+    "noResults": {
+      "title": "No Properties Found",
+      "description": "Try adjusting your filters to find the perfect investment."
+    }
+  },
+  "propertyCard": {
+    "projRoi": "Proj. ROI",
+    "minInvest": "Min. Invest",
+    "riskScore": "Risk Score",
+    "generatePost": "Generate Post with AI",
+    "generatePostDisabled": "Please set your referral code first",
+    "aiAnalysis": "AI Analysis",
+    "investAndEarn": "Invest & Earn",
+    "investDisabled": "Please set your referral code first",
+    "beds": "beds",
+    "baths": "baths",
+    "sqft": "sqft",
+    "addToFav": "Add to favorites",
+    "removeFromFav": "Remove from favorites",
+    "statsTooltip": {
+      "title": "Lifetime Stats",
+      "clicks": "Clicks",
+      "earnings": "Earnings"
+    }
+  },
+  "filters": {
+    "search": "Search",
+    "searchPlaceholder": "Name or location...",
+    "minRoi": "Min. ROI",
+    "sortBy": "Sort By",
+    "sortOptions": {
+      "roi_desc": "ROI (High to Low)",
+      "roi_asc": "ROI (Low to High)",
+      "investment_asc": "Investment (Low to High)",
+      "investment_desc": "Investment (High to Low)"
+    },
+    "propertyType": "Property Type",
+    "bedrooms": "Bedrooms",
+    "favorites": "Favorites",
+    "reset": "Reset Filters",
+    "all": "All",
+    "any": "Any"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "getAIInsights": "Get AI Insights",
+    "analyzing": "Analyzing...",
+    "editLayout": "Edit Layout",
+    "doneEditing": "Done Editing",
+    "noData": {
+      "title": "Your Dashboard is Ready",
+      "description": "Click \"Invest & Earn Bonus\" on properties, capture leads, and log conversions to see your analytics here."
+    },
+    "stats": {
+      "totalClicks": "Total Link Clicks",
+      "totalLeads": "Total Leads",
+      "totalConversions": "Total Conversions",
+      "totalEarnings": "Total Earnings"
+    }
+  },
+  "goalWidget": {
+    "title": "Monthly Goal",
+    "progressTitle": "Monthly Goal Progress",
+    "noGoal": "Set an earnings goal in Settings to track your progress here."
+  },
+  "funnelWidget": {
+    "title": "Conversion Funnel",
+    "stages": {
+      "clicks": "Clicks",
+      "leads": "Leads",
+      "conversions": "Conversions"
+    }
+  },
+  "topProperties": {
+    "title": "Top Properties",
+    "byClicks": "By Clicks",
+    "byEarnings": "By Earnings",
+    "noData": "No data for this view yet.",
+    "clicks": "clicks",
+    "earnings": "earnings"
+  },
+  "charts": {
+    "recentActivity": "Recent Activity",
+    "recentActivitySub": "Clicks over the last 7 days",
+    "recentEarnings": "Recent Earnings",
+    "recentEarningsSub": "Earnings over the last 7 days"
+  },
+  "leadsList": {
+    "title": "Captured Leads",
+    "capturedOn": "Captured",
+    "converted": "Converted",
+    "noLeads": "No leads captured yet.",
+    "logInvestmentTitle": "Log investment for this lead",
+    "composeEmailTitle": "Compose follow-up email with AI"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "list": {
+      "code_commander": {
+        "name": "Code Commander",
+        "description": "Set your referral code"
+      },
+      "property_curator": {
+        "name": "Property Curator",
+        "description": "Favorite your first property"
+      },
+      "click_magnet": {
+        "name": "Click Magnet",
+        "description": "Generate 10 link clicks"
+      },
+      "lead_leader": {
+        "name": "Lead Leader",
+        "description": "Capture your first lead"
+      },
+      "conversion_king": {
+        "name": "Conversion King",
+        "description": "Log your first conversion"
+      },
+      "high_roller": {
+        "name": "High Roller",
+        "description": "Earn your first $100"
+      }
+    }
+  },
+  "library": {
+    "title": "Content Library",
+    "empty": {
+      "title": "Your Library is Empty",
+      "description": "Generate content for a property and click \"Save to Library\" to start building your collection."
+    }
+  },
+  "libraryCard": {
+    "savedOn": "Saved on"
+  },
+  "export": {
+    "button": "Export Data",
+    "clicks": "Export Clicks",
+    "leads": "Export Leads",
+    "conversions": "Export Conversions"
+  },
+  "modals": {
+    "contentGenerator": {
+      "title": "AI Content for",
+      "imageTitle": "Generated Image",
+      "editorTitle": "AI Content Editor",
+      "share": "Share Post & Image",
+      "saveToLibrary": "Save to Library",
+      "shareOnX": "X",
+      "copyText": "Copy",
+      "download": "Download",
+      "regenerateImage": "Regenerate Image",
+      "startOver": "Start Over",
+      "placeholder": "Give feedback or instructions...",
+      "imagePlaceholder": "Image will appear here.",
+      "generatingImage": "Generating AI image...",
+      "quickRepliesTitle": "Quick Replies",
+      "replies": {
+        "concise": "Make it more concise",
+        "emojis": "Add more emojis 🤩",
+        "professional": "Sound more professional",
+        "roi": "Explain the ROI simply"
+      },
+      "hashtags": {
+        "generating": "Generating Hashtags...",
+        "title": "Suggested Hashtags",
+        "copyAll": "Copy All"
+      }
+    },
+    "analysis": {
+      "title": "AI Analysis",
+      "summary": "Investment Summary",
+      "market": "Market Snapshot",
+      "risk": "Risk Breakdown",
+      "growth": "Growth Potential",
+      "print": "Print / Save as PDF",
+      "error": "Something went wrong. Please try generating the report again."
+    },
+    "email": {
+      "title": "AI Email for",
+      "subject": "Subject",
+      "body": "Body",
+      "copySubject": "Copy Subject",
+      "copyBody": "Copy Body",
+      "send": "Send with my Email Client",
+      "error": "Something went wrong. Please try generating the email again."
+    },
+    "logInvestment": {
+      "title": "Log Investment for",
+      "propertyLabel": "Invested Property",
+      "amountLabel": "Investment Amount ($)",
+      "amountPlaceholder": "e.g., 50000",
+      "cancel": "Cancel",
+      "save": "Save Conversion"
+    },
+    "libraryPreview": {
+      "title": "Library",
+      "imageTitle": "Saved Image",
+      "textTitle": "Saved Text",
+      "delete": "Delete from Library",
+      "deleteConfirm": "Are you sure you want to delete this item from your library?"
+    },
+    "aiInsights": {
+      "title": "AI Performance Insights",
+      "summary": "Performance Summary",
+      "strengths": "Key Strengths",
+      "opportunities": "Opportunities for Growth",
+      "tips": "Actionable Tips",
+      "button": "Got It, Thanks!",
+      "error": "Something went wrong. Please try generating the insights again."
+    },
+    "aiPlan": {
+      "title": "Your AI Strategic Plan",
+      "subtitle": "Here's your personalized 4-week plan to help you reach your goal of",
+      "button": "Let's Go!",
+      "error": "Something went wrong. Please try generating the plan again."
+    },
+    "whatsNew": {
+      "title": "What's New",
+      "button": "Explore Now",
+      "types": {
+        "new": "New Feature",
+        "improvement": "Improvement",
+        "fix": "Bug Fix"
+      }
+    },
+    "close": "Close modal"
+  },
+  "settings": {
+    "profile": {
+      "title": "Profile"
+    },
+    "goals": {
+      "title": "Goals",
+      "description": "Set a target for your monthly referral earnings. The AI will use this to track your progress and generate strategic advice.",
+      "label": "Monthly Earnings Goal",
+      "placeholder": "1000",
+      "generatePlan": "Generate AI Plan",
+      "generating": "Generating...",
+      "errorSetGoal": "Please set a monthly goal greater than zero first."
+    },
+    "appearance": {
+      "title": "Appearance",
+      "description": "Choose how the application looks. 'System' will match your OS setting.",
+      "theme": "Theme",
+      "themes": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      }
+    },
+    "data": {
+      "title": "Data Management",
+      "description": "This application stores all your data locally in your browser. Clearing data here is permanent and cannot be undone.",
+      "buttons": {
+        "clicks": "Clear Clicks",
+        "leads": "Clear Leads",
+        "conversions": "Clear Conversions",
+        "favorites": "Clear Favorites",
+        "library": "Clear Library",
+        "achievements": "Clear Achievements",
+        "all": "Clear All Data"
+      },
+      "clearConfirmation": "Are you sure you want to clear all {dataType}? This action cannot be undone.",
+      "clearAllConfirmation": "Are you sure you want to clear ALL your data? This will reset the entire application and cannot be undone."
+    }
+  },
+  "proactiveAssistant": {
+    "title": "Proactive Tip"
+  },
+  "toasts": {
+    "codeSaved": "Referral code saved successfully!",
+    "leadCaptured": "Lead captured! Check your dashboard.",
+    "postCopied": "Post text copied to clipboard!",
+    "incompleteContent": "Cannot save incomplete content.",
+    "allHashtagsCopied": "All hashtags copied!",
+    "hashtagCopied": "Copied: {tag}",
+    "webShareUnsupported": "Web Share is not supported by your browser.",
+    "shareError": "An error occurred while trying to share.",
+    "subjectCopied": "Subject copied to clipboard!",
+    "bodyCopied": "Body copied to clipboard!",
+    "investmentLogged": "Investment successfully logged!",
+    "leadAlreadyConverted": "This lead has already been marked as converted.",
+    "invalidInvestment": "Please select a property and enter a valid investment amount.",
+    "achievementUnlocked": "Achievement Unlocked: {name}!",
+    "contentSaved": "Content saved to your library!",
+    "contentRemoved": "Content removed from library.",
+    "noTopProperty": "No top property to recommend yet. Share some links first!",
+    "setCodeFirst": "Please set your referral code first."
+  },
+  "aiErrors": {
+    "failedInitialContent": "Failed to generate initial marketing content.",
+    "failedResponse": "Failed to get response from AI. Please try again.",
+    "failedImage": "Failed to generate property image. Please try again.",
+    "failedAnalysis": "Failed to generate AI analysis report.",
+    "failedEmail": "Failed to generate AI follow-up email.",
+    "failedInsights": "Failed to generate AI performance insights.",
+    "failedStrategicPlan": "Failed to generate AI strategic plan."
+  },
+  "changelog": {
+    "v1_1_0": {
+      "proactiveAssistant": {
+        "title": "Proactive AI Assistant",
+        "description": "Get timely, contextual tips to boost your success, like reminders to follow up with new leads."
+      },
+      "customDashboard": {
+        "title": "Customizable Dashboard",
+        "description": "You can now reorder and hide widgets on your dashboard to personalize your workspace."
+      },
+      "pwa": {
+        "title": "Offline Mode & Installability",
+        "description": "The app can now be installed on your device and works offline, thanks to PWA enhancements."
+      }
+    }
+  }
+}
